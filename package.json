@@ -1,5 +1,5 @@
 {
-  "name": "javascript-style",
+  "name": "javascript-standards",
   "version": "2.0.0",
   "description": "A mostly reasonable approach to JavaScript. forked from teh airbnb standards",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/zombiepossum/javascript-standards.git"
   },
+  main: "packages/eslint-config/index.js",
   "keywords": [
     "style guide",
     "lint",
