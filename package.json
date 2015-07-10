@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/zombiepossum/javascript-standards.git"
   },
-  main: "packages/eslint-config/index.js",
+  "main": "packages/eslint-config/index.js",
   "keywords": [
     "style guide",
     "lint",
