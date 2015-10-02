@@ -176,7 +176,7 @@
      * Legacy
      */
     "max-depth": [2, 2],             // http://eslint.org/docs/rules/max-depth
-    "max-len": [2, 80, 4],           // http://eslint.org/docs/rules/max-len
+    "max-len": [2, 120, 4],           // http://eslint.org/docs/rules/max-len
     "max-statements": [2, 15]        // http://eslint.org/docs/rules/max-statements
   }
 }
